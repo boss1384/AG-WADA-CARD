@@ -1,0 +1,23 @@
+body{
+ font-famuly:Arial;
+ background:#0c1b2a;
+ color:white;
+ text-align:center;
+}
+container{
+ background:#132c45;
+ padding:20px;
+ border-radius:10px;
+ width:3000px;
+ margin:auto;
+}
+ input, select, button{
+ width:99%;
+ margin:10px;
+ padding10px;
+}
+button{
+ background:#f4c542;
+ border:none;
+ cursor:pointer;
+}
